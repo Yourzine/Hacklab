@@ -1,0 +1,18 @@
+h1 {
+	font-family: 'Nova Mono';
+}
+
+.logocurlybrackets {
+	display: inline;
+	font-size: 4rem;
+	margin-top: 1rem;
+}
+
+
+.mt30 {
+	margin-top: 3rem;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+}
