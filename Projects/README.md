@@ -1,1 +1,1 @@
-#Project Repo for all our ideas!
+#Repo for all Hack.Lab Projects!
